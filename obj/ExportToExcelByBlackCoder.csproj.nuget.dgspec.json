@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\visha\\Desktop\\export-to-excel-in-aspnetcore-mvc-master\\ExportToExcelByBlackCoder\\ExportToExcelByBlackCoder.csproj": {}
+    "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\export-to-excel-in-aspnetcore-mvc-master\\ExportToExcelByBlackCoder\\ExportToExcelByBlackCoder.csproj": {}
   },
   "projects": {
-    "C:\\Users\\visha\\Desktop\\export-to-excel-in-aspnetcore-mvc-master\\ExportToExcelByBlackCoder\\ExportToExcelByBlackCoder.csproj": {
+    "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\export-to-excel-in-aspnetcore-mvc-master\\ExportToExcelByBlackCoder\\ExportToExcelByBlackCoder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\visha\\Desktop\\export-to-excel-in-aspnetcore-mvc-master\\ExportToExcelByBlackCoder\\ExportToExcelByBlackCoder.csproj",
+        "projectUniqueName": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\export-to-excel-in-aspnetcore-mvc-master\\ExportToExcelByBlackCoder\\ExportToExcelByBlackCoder.csproj",
         "projectName": "ExportToExcelByBlackCoder",
-        "projectPath": "C:\\Users\\visha\\Desktop\\export-to-excel-in-aspnetcore-mvc-master\\ExportToExcelByBlackCoder\\ExportToExcelByBlackCoder.csproj",
+        "projectPath": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\export-to-excel-in-aspnetcore-mvc-master\\ExportToExcelByBlackCoder\\ExportToExcelByBlackCoder.csproj",
         "packagesPath": "C:\\Users\\visha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\visha\\Desktop\\export-to-excel-in-aspnetcore-mvc-master\\ExportToExcelByBlackCoder\\obj\\",
+        "outputPath": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\export-to-excel-in-aspnetcore-mvc-master\\ExportToExcelByBlackCoder\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
