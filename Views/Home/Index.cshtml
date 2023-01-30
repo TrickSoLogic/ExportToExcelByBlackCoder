@@ -1,0 +1,44 @@
+﻿@using ExportExcel_in_ASPNetCore.Models;
+@model IEnumerable<BlackCoder>
+@{
+    ViewData["Title"] = "Home Page";
+}
+<form method="post" asp-controller="Home" asp-action="ExportExcel">
+        <input type="submit" value="Export" class="btn btn-primary"/>
+</form>
+
+<table class="table table-bordered">
+        <tr>
+        <th>Test1</th>
+        <th>Test2 </th>
+        <th>Test3 </th>
+        <th>Test4 </th>
+        <th>Test5 </th>
+        <th>Test6</th>
+        <th>Test7</th>
+        <th>Test8</th>
+        </tr>
+        @foreach (BlackCoder customer in Model)
+        {
+            <tr>
+            <td>@customer.Test1</td>
+            <td>@customer.Test2</td>
+            <td>@customer.Test3</td>
+            <td>@customer.Test4</td>
+            <td>@customer.Test5</td>
+            <td>@customer.Test6</td>
+            <td>@customer.Test7</td>
+            <td>@customer.Test8</td>
+            </tr>
+        }
+    </table>
+
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+<div class="text-center">
+    <h1 class="display-4">Hey Coder!! Happy Coding..</h1>
+    <p>Check Out -->> <a href="https://www.youtube.com/TrickSoLogic/">Subscribe for more</a>.</p>
+</div>
